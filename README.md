@@ -1,1 +1,1 @@
-# memo_android
+Demo Memo android application.
